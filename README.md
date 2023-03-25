@@ -19,5 +19,6 @@ ERA5 hourly data on single levels from 1940 to present:
 https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
 
 **NASA Prediction Of Worldwide Energy Resources**
+Dataset can be downloaded:
 https://power.larc.nasa.gov/data-access-viewer/
 
